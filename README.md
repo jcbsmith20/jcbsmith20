@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcbsmith20
-- 🌱 I’m currently learning javascript and front-end development
+- 🌱 I’m currently learning React & UX/UI design 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email - jcbsmith20@gmail.com
 - 😄 Pronouns: ...
